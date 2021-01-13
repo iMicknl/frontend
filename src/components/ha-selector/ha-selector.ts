@@ -10,6 +10,8 @@ import "./ha-selector-number";
 import "./ha-selector-boolean";
 import "./ha-selector-time";
 import "./ha-selector-action";
+import "./ha-selector-object";
+import "./ha-selector-text";
 import { Selector } from "../../data/selector";
 
 @customElement("ha-selector")
